@@ -70,3 +70,5 @@ Used to extract the information from the Image. To get the best result image sho
 
 Reference: 
 1. OCR in Python Tutorials, Introduction to OCR (OCR in Python Tutorials 01.01), Python Tutorials for Digital Humanities, https://www.youtube.com/watch?v=tQGgGY8mTP0&list=PL2VXyKi-KpYuTAZz__9KVl1jQz74bDG7i&index=1
+2. How to automatically deskew (straighten) a text image using OpenCV by 
+Leo Ertuna, Medium, https://becominghuman.ai/how-to-automatically-deskew-straighten-a-text-image-using-opencv-a0c30aed83df
